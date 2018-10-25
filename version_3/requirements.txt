@@ -1,9 +1,16 @@
+atomicwrites==1.2.1
+attrs==18.2.0
 click==6.7
 Flask==1.0.2
 Flask-SQLAlchemy==2.3.2
 itsdangerous==0.24
 Jinja2==2.10
 MarkupSafe==1.0
+more-itertools==4.3.0
+pluggy==0.8.0
+py==1.7.0
+pytest==3.9.2
 python-dotenv==0.9.1
+six==1.11.0
 SQLAlchemy==1.2.12
 Werkzeug==0.14.1
